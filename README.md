@@ -1,4 +1,4 @@
 Test
 ====
 
-hello git
+hello git       # time honoured starting point
